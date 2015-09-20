@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+img
+{
+	border: 10px solid brown;
+	padding-top: 20px;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+.startButton
+{
+	padding-top: 50px;
+	text-align: center;
+}
+
+.storyTwo
+{
+	float: right;
+}
